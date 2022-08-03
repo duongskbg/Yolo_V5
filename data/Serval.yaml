@@ -1,0 +1,9 @@
+
+train: data/images/train
+val: data/images/val
+
+
+# Classes
+nc: 2  # number of classes
+names: ['2D_code', 'thieu']  # class names
+
