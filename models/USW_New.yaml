@@ -1,0 +1,8 @@
+train: data/images/train # path to train folder
+val: data/images/val # path to val folder
+
+# number of classes
+nc: 8
+
+# class names
+names: ['Big_Screw', 'Button','B_Screw', 'M_Screw','S_Screw', 'Black','Empty', 'Re_Button']
